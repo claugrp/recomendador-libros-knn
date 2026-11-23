@@ -1,0 +1,15 @@
+# Datos (se descargan aparte, ver README)
+data/
+*.csv
+
+# Salida generada por el script
+recomendaciones.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PyCharm
+.idea/
